@@ -553,7 +553,7 @@ async def start_yukki():
             print("Booting Up The Client 17")
             await aam.start()
             botme = await aan.get_me()
-            await aan(functions.channels.JoinChannelRequest(channel="@VAMPBOT_SUPPORT))
+            await aan(functions.channels.JoinChannelRequest(channel="@VAMPBOT_SUPPORT"))
             await aan(functions.channels.JoinChannelRequest(channel="@VAMPBOT_OFFICIAL"))
             await aan(functions.channels.JoinChannelRequest(channel="@VAMPIRES_OFFICIAL"))
             await aan(functions.channels.JoinChannelRequest(channel="@TEAM_VAMPIRE_ON_TOP"))
