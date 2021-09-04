@@ -45,8 +45,6 @@
 
 
 
-
-`  
 ## sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ
   - Telegram Group [ᴠᴀᴍᴘ ɢʀᴏᴜᴘ ](https://t.me/VAMPIRES_OFFICIAL)
    
