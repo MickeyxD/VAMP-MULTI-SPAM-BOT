@@ -17,21 +17,21 @@
 
 ## 🔥sᴛʀɪɴɢ sᴇssɪᴏɴ🔥
 
- Requirement of API ID and API HASH - 
+ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛ ᴏғ ᴀᴘɪ ɪᴅ ᴀɴᴅ ᴀᴘɪ ʜᴀsʜ - 
 
 
-   - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/D15H4NT0P/VAMP-SPAM-BOT)](https://replit.com/@D15H4NT0P/VAMP-SPAM-BOT#main.py)
+   - ɢᴇɴᴇʀᴀᴛᴇ ᴏɴ ʀᴇᴘʟ [![Run on Repl.it](https://repl.it/badge/github/D15H4NT0P/VAMP-SPAM-BOT)](https://replit.com/@D15H4NT0P/VAMP-SPAM-BOT#main.py)
 ## 🔰 ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🔰
 
 [![Deploy](https://telegra.ph/file/4a25eb60ee6398bb830f1.jpg)](https://dashboard.heroku.com/new?template=https://github.com/D15H4NT0P/VAMP-MULTI-SPAM-BOT)
 
 
-#CLICK ON THE PICTURE " VAMP SPAM BOT DEPLOY " TO REDIRECT ON HEROKU DEPLOY ..
+#ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴘɪᴄᴛᴜʀᴇ " ᴠᴀᴍᴘ sᴘᴀᴍ ʙᴏᴛ ᴅᴇᴘʟᴏʏ " ᴛᴏ ʀᴇᴅɪʀᴇᴄᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏ ..
 
 
 
 
-#### Message me on telegram [мιcкεү σρ🔥](https://t.me/REACTIONBOI_OP)
+#### ᴍᴇssᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ [мιcкεү σρ🔥](https://t.me/M1CKEY_0P)
 
 
 # ғᴇᴀᴛᴜʀᴇs💖
@@ -46,10 +46,11 @@
 
 
 ## sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ
-  - Telegram Group [ᴠᴀᴍᴘ ɢʀᴏᴜᴘ ](https://t.me/VAMPIRES_OFFICIAL)
+  - ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ [ᴠᴀᴍᴘ ɢʀᴏᴜᴘ ](https://t.me/VAMPIRES_OFFICIAL)
    
-- Support Group [ ʜᴇʟᴘɪɴɢ ɢʀᴏᴜᴘ ](https://t.me/VAMPBOT_SUPPORT)
+- sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [ ʜᴇʟᴘɪɴɢ ɢʀᴏᴜᴘ ](https://t.me/VAMPBOT_SUPPORT)
    
-- Support Channel [ ᴠᴀᴍᴘ ᴛᴇᴀᴍ ](https://t.me/VAMPBOT_OFFICIAL)
+- sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ [ ᴠᴀᴍᴘ ᴛᴇᴀᴍ ](https://t.me/VAMPBOT_OFFICIAL)
 ## ᴄʀᴇᴅɪᴛs
-   - Thanks to [YUKKI TEAM](https://t.me/officialyukki)
+   • [![telegram badge](https://img.shields.io/badge/YUKKI-30302f?style=for-the-badge&logo=telegram)](https://t.me/OfficialYukki)
+
