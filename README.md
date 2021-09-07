@@ -52,5 +52,5 @@
    
 - sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ [ ᴠᴀᴍᴘ ᴛᴇᴀᴍ ](https://t.me/VAMPBOT_OFFICIAL)
 ## ᴄʀᴇᴅɪᴛs
-   • [![telegram badge](https://img.shields.io/badge/YUKKI-30302f?style=for-the-badge&logo=telegram)](https://t.me/OfficialYukki)
+    [![telegram badge](https://img.shields.io/badge/YUKKI-30302f?style=for-the-badge&logo=telegram)](https://t.me/OfficialYukki)
 
